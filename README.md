@@ -1,6 +1,39 @@
-# curriculum-cr-training-mobile-menu
+# Portfolio
 
+Hey, My name is Zain and this is a portfolio.
 
-This repo host an initial code for the tasks performed during the Code Reviewers training.
+## Built With
+`HTML`, `CSS`, `JavaScript`
 
-Application is based on this [Figma design](https://www.figma.com/file/t3EJUCAEViw3QasuJLPLVT/Microverse-Student-Potfolio-Templates-Main?node-id=1%3A1471).
+## Run This Project
+
+```
+git clone https://github.com/zainsadaqat/cr-training-mobile-menu.git
+```
+-- 
+
+```
+cd cr-training-mobile-menu
+```
+
+## Author
+
+👤 **Zain Sadaqat**
+
+- GitHub: [zainsadaqat](https://github.com/zainsadaqat)
+- LinkedIn: [zain-sadaqat](https://www.linkedin.com/in/zain-sadaqat/)
+- Twitter: [zain_sadaqat](https://www.twitter.com/in/zain_sadaqat/)
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](./MIT.md) licensed.
